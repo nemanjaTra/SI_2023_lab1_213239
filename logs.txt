@@ -1,0 +1,23 @@
+commit ee90b3e73ab9b12637e6395ce9edb66cb39e1d1d (HEAD -> master, origin/master, origin/bug3, bug3)
+Author: Nemanja <nemanja.trajnavoski.02@gmail.com>
+Date:   Fri Mar 31 00:06:25 2023 +0200
+
+    Fix metod sumEvenNumbers
+
+commit dd8315add6693952e41632e411f51a3f38fe5c04 (origin/bug1, bug1)
+Author: Nemanja <nemanja.trajnavoski.02@gmail.com>
+Date:   Fri Mar 31 00:00:17 2023 +0200
+
+    Fix wrong loop for reading
+
+commit d855c16928857f0609f5a51bb02807ccab857b54
+Author: Nemanja <nemanja.trajnavoski.02@gmail.com>
+Date:   Thu Mar 30 23:51:32 2023 +0200
+
+    Add java class
+
+commit 3e31969705495484c9981c4c0e09caaebc3d7c76
+Author: Nemanja <nemanja.trajnavoski.02@gmail.com>
+Date:   Thu Mar 30 23:50:20 2023 +0200
+
+    Initial commit
