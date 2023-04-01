@@ -1,1 +1,43 @@
-Nemanja Trajanovski
+1.Комплетирано 
+2.Комплетирано
+3.Комплетирано
+4.	$mkdir SI_2023_lab1_213239
+	$cd SI_2023_lab1_213239
+	$git init
+5.	$git remote add origin https://github.com/nemanjaTra/SI_2023_lab1_213239.git
+6.	$nano README.md
+	$git add README.md
+	$git commit -m "Initial commit"
+7.	$nano SILab1.java
+	$git add SILab1.java
+	$git commit -m "Add java class"
+8.	&git push --all origin
+9.Направив:
+   -	$git branch bug1
+   -	$git branch bug2
+   -    $git branch bug3
+10.	$git checkout bug1
+11.	$nano SILab1.java
+		&git commit -a -m "Fix wrong loop reading"
+12.	&git checkout bug2
+	$nano SILab1.java
+		&git commit -a -m "Fix wrong condition in filterOddNumbers"
+13.	$git checkout bug3
+	$nano SILab1.java
+		$git commit -a -m "Fix method sumEvenNumbers"
+14.	$git push --all origin
+15.	$git checkout master
+16.	$git merge bug1 (ff)
+17.	$git push --all origin
+18.	$git merge bug2 (rec)
+!9	$git push --all origin
+20.	$git checkout bug3
+21.	$git rebuse master
+22.	$git checkout master
+23.	$git merge bug3
+24.	$git push --all --force origin
+27.	$nano logs.txt
+28.	$nano 213239.txt
+	$git add *.txt
+	$git commit -m "Final commit"
+29.	$git push --all origin
